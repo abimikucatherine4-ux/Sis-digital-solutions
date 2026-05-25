@@ -1,0 +1,1 @@
+The analysis showed that glucose level has the strongest connection to diabetes, and patients with higher glucose, BMI, and pregnancy counts were more likely to have diabetes. The charts and statistics also revealed patterns between insulin, age, and other health features, helping us better understand factors that may increase diabetes risk.
