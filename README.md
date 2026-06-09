@@ -1,4 +1,6 @@
 The analysis showed that glucose level has the strongest connection to diabetes, and patients with higher glucose, BMI, and pregnancy counts were more likely to have diabetes. The charts and statistics also revealed patterns between insulin, age, and other health features, helping us better understand factors that may increase diabetes risk.
+
+
 CAR PRICE PREDICTION:
 This project develops a machine learning model to predict the selling price of used cars based on their characteristics. The dataset contains information such as car name, year of manufacture, present market price, kilometers driven, fuel type, seller type, transmission type, and ownership history.
 
